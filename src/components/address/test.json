@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_test123_tests",
+  "info": {
+    "displayName": "address",
+    "icon": "folder",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "text"
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "pincode": {
+      "type": "string"
+    }
+  }
+}
